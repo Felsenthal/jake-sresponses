@@ -11,3 +11,6 @@ Question 3: This is more of a general question than a specific one, but how does
 
 
 Question 4:I'm not sure I completely understood what the fact that there was a delay in censorship actions meant for that censorship system, could we talk about it more?
+
+
+**Summary**
