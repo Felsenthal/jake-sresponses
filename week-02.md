@@ -10,7 +10,11 @@ Question 3: This is more of a general question than a specific one, but how does
 
 
 
-Question 4:I'm not sure I completely understood what the fact that there was a delay in censorship actions meant for that censorship system, could we talk about it more?
+Question 4:I'm not sure I completely understood what the fact that there was a delay in censorship actions meant for that censorship system, could we talk about it more?\
+
+Question 5: How does one differentiate between zero-pointing as a form of censorship and zero-pointing as a business practice (A video that is bad and wouldn't make money)
+
+Question 6: Should companies be forced to ensure X amount of money is being made on any side of a political debate?
 
 
 **Summary**
